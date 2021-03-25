@@ -35,3 +35,4 @@
 |29|TV, Halftime Shows, and the Big Game|**Load, clean, and explore** Super Bowl data in the age of soaring ad costs and flashy halftime shows.|`str_detect()`|
 |30|Phyllotaxis: Draw Flowers Using Mathematics|Use R to make art and create imaginary flowers inspired by nature.|`ggplot2` package
 |31|Wrangling and Visualizing Musical Data|Wrangle and visualize musical data to find common chords and compare the styles of different artists.|`slice()`, `reorder()`, and `lead()`|
+|32|Scout your Athletics Fantasy Team|Analyze athletics data to find new ways to scout and assess jumpers and throwers.|`dplyr` and `ggplot2` packages|

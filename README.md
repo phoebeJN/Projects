@@ -36,3 +36,4 @@
 |30|Phyllotaxis: Draw Flowers Using Mathematics|Use R to make art and create imaginary flowers inspired by nature.|`ggplot2` package
 |31|Wrangling and Visualizing Musical Data|Wrangle and visualize musical data to find common chords and compare the styles of different artists.|`slice()`, `reorder()`, and `lead()`|
 |32|Scout your Athletics Fantasy Team|Analyze athletics data to find new ways to scout and assess jumpers and throwers.|`dplyr` and `ggplot2` packages|
+|33|Bad Passwords and the NIST guidelines|Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.|`stringr` package: `str_length()`, `str_extract()`, str_split()` and `rle()`; `read_lines()`; `sapply()`|

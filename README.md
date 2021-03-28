@@ -38,3 +38,4 @@
 |32|Scout your Athletics Fantasy Team|Analyze athletics data to find new ways to scout and assess jumpers and throwers.|`dplyr` and `ggplot2` packages|
 |33|Bad Passwords and the NIST guidelines|Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.|`stringr` package: `str_length()`, `str_extract()`, `str_split()` and `rle()`; `read_lines()`; `sapply()`|
 |34|A Text Analysis of Trump's Tweets|Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half.|`extract()`; `unnest_tokens()` within `tidytext` package|
+|35|A Visual History of Nobel Prize Winners|Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?|decade calculation: `decade = year - year %% 10`, `top_n(1, ...)` : the highest value; `top_n(1, - ...)`: the lowest value

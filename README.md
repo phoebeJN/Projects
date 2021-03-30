@@ -37,9 +37,9 @@
 |31|Wrangling and Visualizing Musical Data|Wrangle and visualize musical data to find common chords and compare the styles of different artists.|`slice()`, `reorder()`, and `lead()`|
 |32|Scout your Athletics Fantasy Team|Analyze athletics data to find new ways to scout and assess jumpers and throwers.|`dplyr` and `ggplot2` packages|
 |33|Bad Passwords and the NIST guidelines|Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.|`stringr` package: `str_length()`, `str_extract()`, `str_split()` and `rle()`; `read_lines()`; `sapply()`|
-|34|A Text Analysis of Trump's Tweets|Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half.|`extract()`; `unnest_tokens()` within `tidytext` package|
+|34|A Text Analysis of Trump's Tweets|Apply **text mining** to Donald Trump's tweets to confirm if he writes the (angrier) Android half.|`extract()`; `unnest_tokens()` within `tidytext` package|
 |35|A Visual History of Nobel Prize Winners|Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?|decade calculation: `decade = year - year %% 10`, `top_n(1, ...)` : the highest value; `top_n(1, - ...)`: the lowest value
-|36|Kidney Stones and Simpson's Paradox|Use logistic regression to determine which treatment procedure is more effective for kidney stone removal.|Chi-squared test; `broom` package: `tidy()`; `ggplot2`: `geom_pointrange()`|
-|37| | |
+|36|Kidney Stones and Simpson's Paradox|Use **logistic regression** to determine which treatment procedure is more effective for kidney stone removal.|Chi-squared test; `broom` package: `tidy()`; `ggplot2`: `geom_pointrange()`|
+|37|Text Mining America's Toughest Game Show|Use **text mining** to analyze Jeopardy! data.|packages: `tm`, and `wordcloud`.
 |38| | |
 |39| | |

@@ -42,4 +42,4 @@
 |36|Kidney Stones and Simpson's Paradox|Use **logistic regression** to determine which treatment procedure is more effective for kidney stone removal.|Chi-squared test; `broom` package: `tidy()`; `ggplot2`: `geom_pointrange()`|
 |37|Text Mining America's Toughest Game Show|Use **text mining** to analyze Jeopardy! data.|packages: `tm`, and `wordcloud`.
 |38|Explore 538's Halloween Candy Rankings|Get ready for Halloween by digging into a FiveThirtyEight dataset with all your favorite candy! (fit and evaluate **linear and logistic regression models**)|packages: `fivethirtyeight` (dataset), `corrplot`, `broom` - `augment()` function. Look at Q10 (prediction, confusion matrix)|
-|39| | |
+|39|Modeling the Volatility of US Bond Yields|Discover how the US bond yields behave using descriptive statistics and advanced modeling.|This project assumes background knowledge on **time series analysis**, **GARCH modeling**, plotting and uses packages `xts` and `rugarch`.
